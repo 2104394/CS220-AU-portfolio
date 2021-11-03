@@ -1,5 +1,5 @@
 ## Charles rumm
-**Creative technologist with teaching, technical and artistic skills**  
+**studying psycholgy at univeristy**  
 
 
 <br>
