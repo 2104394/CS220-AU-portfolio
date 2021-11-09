@@ -29,8 +29,8 @@ Using the V&R map, I identified the following ways I engage with the Web in my v
 
 To clarify, in 
 
-- my visiting mode, the primary activities are ...
-- my resident mode, the primary activities are ...
+- my visiting mode, the primary activities are google searches or looking 
+- my resident mode, the primary activities are social media, watching videos and streams 
 - the difference between my personal and institutional modes is ...
 - etc. 
 
