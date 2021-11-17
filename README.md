@@ -23,6 +23,8 @@
 * continue to work on di reflection
 * * think about how to improve interaction with the internet
 * * after improvement log on the vr map how they have changed
+* do further work on the website
+* * list prevoius expeirnaces / interactions with internet / education 
 <br>
 
 
