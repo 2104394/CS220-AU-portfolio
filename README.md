@@ -26,6 +26,7 @@
   * add in the images of the vr map
 * do further work on the website
   * list prevoius expeirnaces / interactions with internet / education 
+  * add an intro at the beginning of website detialing who i am briefly
 <br>
 
 
