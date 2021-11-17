@@ -4,7 +4,8 @@ im currently studing psycholgy at the university of essex so far it has been a m
 
 <br>
 
-## social media links
+## prevoius academic work
+prevosuly i have done a levels in psycholgy and sociolgy in both i aqured a c 
 
 <br>
 
