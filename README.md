@@ -21,10 +21,10 @@
 * understand what it means to use the internet more effciently <br>
 * understand how i could better use the internet and if that would change my placementon the V&R map <br>
 * continue to work on di reflection
-* * think about how to improve interaction with the internet
-* * after improvement log on the vr map how they have changed
+  * think about how to improve interaction with the internet
+  * after improvement log on the vr map how they have changed
 * do further work on the website
-* * list prevoius expeirnaces / interactions with internet / education 
+  * list prevoius expeirnaces / interactions with internet / education 
 <br>
 
 
