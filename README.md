@@ -9,7 +9,8 @@
 <br>
 
 ## Log
-20/10/21 attended class <br>
+*bullet list
+*20/10/21 attended class <br>
 20/10/21 made github account <br>
 27/10/21 read through the info about the essay <br>
 27/10/21 started planning DI-reflection
