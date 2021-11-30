@@ -1,7 +1,3 @@
-Quick notes:
-- you can use the outline below as your template, amend it, or change it completely. Just make sure you use the [Chicago style referencing](https://www1.essex.ac.uk/students/study-resources/tdc/documents/referencing-chicago.pdf). 
-- you should work on your drafts in your private repository. As discussed, you can add this written work to your public website as an additional page if you'd like, but makes sure you also submit a PDF version on FASER. 
-
 ## Reflection on digital identities
 
 This writing briefly reflects on my understanding of
@@ -17,8 +13,6 @@ To help identify and improve my digital identities, I explored
 - [White et al.'s Visitor and Resident (V&R) concept](http://daveowhite.com/vandr/) which 
   - says this and that as well as that
   - and out of these, I found this and that interesting, and therefore researched them further and found this and that, etc. 
-
-Note: The module outline has a page on [digital identities](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/digital-identities.md) - revise if needed. If you can, add more references i.e. not just the one to White et al. 
 
 <br>
 
@@ -44,7 +38,6 @@ To help develop my digital identities I have
 - used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
 - etc. 
 
-Note: Make sure you not only write about what you think needs improving, but also about what you think you are already doing well already regarding your digital identities. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading, you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
 
 After identifying and analysing my current use of digital identities on the Web, I set the goal to ...
 
