@@ -1,6 +1,10 @@
 ## Charles rumm
+introdution 
+im charles rumm, a uni student currenlty studying psychology at the univerisity of essex, im 18 and have been 
+
+
 **studying psycholgy at univeristy**  
-im currently studing psycholgy at the university of essex so far it has been a month into it
+im currently studing psycholgy at the university of essex, ive had previous expriance with psycholgy during my a level and learning alot about how humans work with the applied human biology aspect 
 
 <br>
 
@@ -23,9 +27,10 @@ prevosuly i have done a levels in psycholgy and sociolgy in both i aqured a c
 
 ## educations
 
-| date | degree | institute |
---- | --- | ---
-
+| grade | degree | institute |
+c | psychology | usp seevic
+c | sociology | usp seevic
+merit | applied human biology | usp seevic
 <br>
 
 ## work experience
