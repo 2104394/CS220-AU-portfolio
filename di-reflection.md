@@ -11,7 +11,7 @@ This writing briefly reflects on my understanding of
 ### Digital identities
 To help identify and improve my digital identities, I explored 
 - [White et al.'s Visitor and Resident (V&R) concept](http://daveowhite.com/vandr/) which 
-  - says this and that as well as that
+  - says that there is a spectrum of way to interact with the internet which can be plotted on a vr map which can show where people lie on the resident to vistor line aswell as th 
   - and out of these, I found this and that interesting, and therefore researched them further and found this and that, etc. 
 
 <br>
