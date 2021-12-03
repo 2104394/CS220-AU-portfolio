@@ -15,15 +15,17 @@
 * 27/10/21 started planning DI-reflection
 * 11/11/21 plotted on the vr map
 * 11/11/21 made a start on di reflection
+* ?/11/21 undestood how i have been using the internet in past and presnet
+* ?/11/21 thought about how i could advance with digital idenity
 <br>
 
 ## TODO
 * understand what it means to use the internet more effciently <br>
 * understand how i could better use the internet and if that would change my placementon the V&R map <br>
 * continue to work on di reflection
-  * think about how to improve interaction with the internet
-  * after improvement log on the vr map how they have changed
+  * improvement log on the vr map how they have changed
   * add in the images of the vr map
+  * finish the non personal part
 * do further work on the website
   * list prevoius expeirnaces / interactions with internet / education 
   * add an intro at the beginning of website detialing who i am briefly
