@@ -21,78 +21,17 @@ Using the V&R map, I identified the following ways I engage with the Web in my v
 
 <br><br>![V&R map plain](assets/img/vr-map-plain.svg)<br><br>
 
-To clarify, in 
 
-- my visiting mode, the primary activities are google searches or looking 
-- my resident mode, the primary activities are social media, watching videos and streams 
-- the difference between my personal and institutional modes is ...
-- etc. 
-
-<br>
-
-### My future digital identity/identities
-To help develop my digital identities I have
-- revised my current use of digital identities (thought about it critically)
-- discussed it with my cohort/friends/parents
-- found this and that in journal papers/books/internet which helped me understand where and how I could improve 
-- used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
-- etc. 
-
-
-After identifying and analysing my current use of digital identities on the Web, I set the goal to ...
-
-<br>
-
-#### Objective 1 (example)
-The above V&R map and its analysis highlighted ...
-
-To address this (objective/weakness/threat, ...) I plan to 
-- do this and that (read this and that, join a specific forum, amend/delete/add this or that, ...)
-- by this deadline (perhaps you could write that you will set aside 1 hour every Monday to work on this objective)
-
-<br>
-
-#### Objective 2 (example)
-...
-
-By addressing these objectives my V&R map will look as follows: 
-
-![V&R map plain](assets/img/vr-map-plain.svg)
-
-<br>
-
-### Summery
-This writing reflected (or in this writing I reflected) on my understanding of
-
-1. digital identities in general and highlighted this and that
-2. my digital identities in the past/present and highlighted this and that
-3. my digital identities in the future and highlighted this and that
-
-<br>
-
-### Questions you should/could export 
-- do I know people who are much older than me and can use technology efficiently e.g. the Web more efficiently?
-- what does it actually mean "to use the Web more efficiently"?
-- what's the difference between White et al.'s and Prensky's idea regarding people engaging with technology?
-- on the V&R map, what's the fundamental difference between 'visitor' modes and 'resident' modes and what does the 'personal on institutional' dimension provide?
-- how have I been using digital technology in different contexts i.e. how has my 'digital journey' changed since my first device e.g. the one given to me by parents?
-- how can/should I (or shouldn't) link my personal identities to my professional identities?
-- what implications do my visitor identities have on my personal life?
-- what implications do my personal identities have on my professional/institutional life?
-- what implications do my resident identities have on my personal life?
-- what implications do my resident identities have on my professional/institutional life?
-- how do I assess the credibility of information of other people (or institutions) e.g. does it matter how good their profile picture looks or how well their website is designed? 
-- how much fact-checking could people do when visiting my resident identities e.g. my websites or social accounts and who much fact-checking do I need to do when referencing others' work?
-- is a piece of information's creditably in line with how high the information ranks using a search engine?
-- is a piece of information's creditably in line with the creditability (or the number of followers) of a mainstream or alternative broadcaster, its references and perhaps who it was reviewed by? Can this information be biased or could there be a conflict of interest? 
-- what does it mean to critically evaluate information i.e. what is critical thinking?
-- how do I develop my critical thinking regarding my engagement on the Web in my visitor and resident modes?
-- what is my digital capability e.g. what aspect of technology am I comfortable/uncomfortable with?
-- how can I improve my online presence e.g. by monitoring the time I spend on social media vs. work when using my computing device?
-- how can I improve the way I interact with information online e.g. can I access a more mindful/objective instead of a more reactive/emotional/biased state of mind before sharing or commenting on something online?
-- what information about my developing digital identities am I confident sharing publicly?
-
-<br>
-
-### Thoughts
-- maybe also have the two maps next to each other for easy comparison
+Di reflection 
+What is a digital identity?
+A digital identity is how you engage with the internet and how you are perceived based upon that identity, an example of this is if a person uses the internet a lot for a professional life that would be their digital identity at least using the VR map method
+Previous ideas on digital identity
+One previous idea on digital identity was the idea of native and immigrants this meant that some people were raised on the internet and are well versed in how to operate on it and do so frequently for many tasks both professional and personal; however this is not detailed on this first model. Whilst others may try and engage with 
+Current ideas on digital identity
+More specific to me 
+My past in digital identity	
+In the past my digital identity was very limited, whilst I did interact from a very early age, since I was on the internet from the age of 3, I didn’t have any residency till secondary school with the VLE which would be a very mild form of professional / resident  at the same time I it wasn’t until 14 that I would gain twitter as a form residence and on the personal side of the VR map especially since its more public then finally gaining a lot more residency with more social media and other accounts such as Instagram Reddit and tiktok
+My current digital identity
+My current digital identity Is 
+My future plans for my digital identity
+References
