@@ -21,7 +21,10 @@ In the past my digital identity was very limited, whilst I did interact from a v
 <br>
 My current digital identity <br>
 <br> 
-my current digital identiy has things on both sides of the scale in  terms of resident to vistor since with a large usage of social media but due to the lack that interact with the outer world with my social media it does not lend itself to being the complete left side on any of my soical media apart from twtiter which i am mor active on but purly in a 
+my current digital identiy has things on both sides of the scale in  terms of resident to vistor since with a large usage of social media but due to the lack that interact with the outer world with my social media it does not lend itself to being the complete left side on any of my soical media apart from twtiter which i am mor active on but purly in a indivudal way since it is not in anyway used proffesionally
+<br>
+my current only proffesional entry on the VR map is the use of moodle or any account that is related to essex univeristy and so therefore is quite baron in comparrsion to other areas
 <br>
 My future plans for my digital identity <br>
+i plan to become more of a visitor and possibliy more proffesional as i could take up blogging to note things that i think are important and as a creative outlet that i could to show skills and possibly get a job if not that then it could be considered more indivudal since i would be doing it for fun but regardless in professional manner and would not be connecting too much of a personal life too it
 References
