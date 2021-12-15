@@ -1,8 +1,6 @@
 # CS220 AU portfolio
 ## Overview
 
-
-
 <br> 
 
 
@@ -22,8 +20,7 @@
 <br>
 
 ## TODO
-* understand what it means to use the internet more effciently <br>
-* understand how i could better use the internet and if that would change my placementon the V&R map <br>
+
 * continue to work on di reflection
   * improvement log on the vr map how they have changed
   * add in the images of the vr map
