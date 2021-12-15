@@ -26,11 +26,11 @@ prevosuly i have done a levels in psycholgy and sociolgy in both i aqured a c
 <br>
 
 ## educations
-
-| grade | degree | institute |
-c | psychology | usp seevic
-c | sociology | usp seevic
-merit | applied human biology | usp seevic
+ 
+| grade | degree | institute | <br>
+c | psychology | usp seevic <br>
+c | sociology | usp seevic <br>
+merit | applied human biology | usp seevic <br>
 <br>
 
 ## work experience
