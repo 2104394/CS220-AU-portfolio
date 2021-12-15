@@ -17,6 +17,7 @@
 * 11/11/21 made a start on di reflection
 * ?/11/21 undestood how i have been using the internet in past and presnet
 * ?/11/21 thought about how i could advance with digital idenity
+* 9/12/21 listed preivous expirnaces and education on the website
 * 14/12/21 copied over work into github page from word docs they were wrote / planned in
 <br>
 
@@ -28,8 +29,7 @@
   * add in the images of the vr map
   * finish the non personal part
 * do further work on the website
-  * list prevoius expeirnaces / interactions with internet / education 
-  * add an intro at the beginning of website detialing who i am briefly
+  * improve an intro at the beginning of website detialing who i am briefly
 <br>
 
 
