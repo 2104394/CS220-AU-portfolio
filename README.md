@@ -17,6 +17,7 @@
 * 11/11/21 made a start on di reflection
 * ?/11/21 undestood how i have been using the internet in past and presnet
 * ?/11/21 thought about how i could advance with digital idenity
+* 14/12/21 copied over work into github page from word docs they were wrote / planned in
 <br>
 
 ## TODO
