@@ -29,11 +29,13 @@ As of current as mentioned I am at university and not currently focusing on gett
 
 ## education
  |a level subject|grades|
+ |---------------|------|
  |psychology|C|
  |sociolgy|C|
  |appliedd human biology|MERIT|
  
  |GCSE subject | grades|
+ |-------------|-------|
  |enlgish language||
  |english liturature||
  |religous studies|4|
