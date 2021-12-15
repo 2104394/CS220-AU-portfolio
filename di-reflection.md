@@ -29,7 +29,7 @@ My current digital identity <br>
 <br> 
 my current digital identiy has things on both sides of the scale in  terms of resident to vistor since with a large usage of social media but due to the lack that interact with the outer world with my social media it does not lend itself to being the complete left side on any of my soical media apart from twtiter which i am mor active on but purly in a indivudal way since it is not in anyway used proffesionally
 <br>
-my current only proffesional entry on the VR map is the use of moodle or any account that is related to essex univeristy and so therefore is quite baron in comparrsion to other areas
+my current only proffesional entry on the VR map is the use of moodle or any account that is related to essex univeristy and so therefore is quite baron in comparrsion to other areas <br>
 <br>
 My future plans for my digital identity <br>
 <br>
