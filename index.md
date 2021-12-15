@@ -69,5 +69,3 @@ In school I was also a prefect, which involved having specific duties carried ou
 
 <br><br> 
 
-My ful
-
