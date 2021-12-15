@@ -2,19 +2,6 @@
 
 This writing briefly reflects on my understanding of
 
-- digital identities in general
-- my digital identities in the past/present
-- my digital identities in the future
-
-<br>
-
-### Digital identities
-To help identify and improve my digital identities, I explored 
-- [White et al.'s Visitor and Resident (V&R) concept](http://daveowhite.com/vandr/) which 
-  - says that there is a spectrum of way to interact with the internet which can be plotted on a vr map which can show where people lie on the resident to vistor line aswell as th 
-  - and out of these, I found this and that interesting, and therefore researched them further and found this and that, etc. 
-
-<br>
 
 ### My past/present digital identity/identities
 Using the V&R map, I identified the following ways I engage with the Web in my visitor and resident modes (see photo/diagram below). 
@@ -31,7 +18,10 @@ Current ideas on digital identity <br>
 More specific to me <br>
 My past in digital identity	<br>
 In the past my digital identity was very limited, whilst I did interact from a very early age, since I was on the internet from the age of 3, I didn’t have any residency till secondary school with the VLE which would be a very mild form of professional / resident  at the same time I it wasn’t until 14 that I would gain twitter as a form residence and on the personal side of the VR map especially since its more public then finally gaining a lot more residency with more social media and other accounts such as Instagram Reddit and tiktok <br>
+<br>
 My current digital identity <br>
-My current digital identity Is  <br>
+<br> 
+my current digital identiy has things on both sides of the scale in  terms of resident to vistor since with a large usage of social media but due to the lack that interact with the outer world with my social media it does not lend itself to being the complete left side on any of my soical media apart from twtiter which i am mor active on but purly in a 
+<br>
 My future plans for my digital identity <br>
 References
