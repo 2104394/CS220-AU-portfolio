@@ -6,8 +6,6 @@ This writing briefly reflects on my understanding of
 ### My past/present digital identity/identities
 Using the V&R map, I identified the following ways I engage with the Web in my visitor and resident modes (see photo/diagram below). 
 
-<br><br>![V&R map plain](assets/img/vr-map-plain.svg)<br><br>
-
 
 Di reflection <br>
 <br>
