@@ -29,14 +29,21 @@ As of current as mentioned I am at university and not currently focusing on gett
 
 ## education
  |a level subject|grades|
- |---------------|------|
  |psychology|C|
- |---------------|------|
  |sociolgy|C|
- |---------------|------|
  |appliedd human biology|MERIT|
- |---------------|------|
  
+ |GCSE subject | grades|
+ |enlgish language||
+ |english liturature||
+ |religous studies|4|
+ |ict|C|
+ |computer science|5|
+ |biology|5|
+ |chemistry|5|
+ |physics|6|
+ |maths|6|
+ |geography|6|
 
 ## work experience
  so far i have not participated in formal work experience 
