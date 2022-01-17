@@ -1,6 +1,7 @@
 # CS220 AU portfolio
 ## Overview
-
+In this assignment, I made a website that will be able to act as a CV as it outlines things I’ve done and accomplished.
+Then in my di reflection essay I used white et  al’s vr map to outline how I plan to improve my own digital identity I then elaborated on how I plan to do so along with that I also detailed how my past digital identity is 
 <br> 
 
 
