@@ -35,6 +35,7 @@ My future plans for my digital identity <br>
 i plan to become more of a visitor and possibliy more proffesional as i could take up blogging to note things that i think are important and as a creative outlet that i could to show skills and possibly get a job if not that then it could be considered more indivudal since i would be doing it for fun but regardless in professional manner and would not be connecting too much of a personal life too it <br>
 
 another possible way to improve my digital identity is to make a linked in account and be able to interact with other people in my field this would add to both my resident and proffesional parts of the VR map
+![](assets/img/after-VR-map.PNG)
 <br>
 currently i think im doing well in the aspect of being a residient as i have many resident areas on the intenet with social media being a large one that i keep seporate to my professional life and with that in mind i am doing well on a personal level in relation to digital idenity as i have made sure to keep proffesional and private completely diffrent so to not cuase problems in either one
 <br>
