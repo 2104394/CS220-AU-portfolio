@@ -1,6 +1,6 @@
 ## Charles Rumm
 ##Introduction 
-I’m Charles Rumm, a Universiity student currently studying psychology at the University of Essex; I’m 18 and have been interested in psychology for a while now ever since i read a booklet on psycholgy and wanted to know more, i have more of a particular intrest in reasons in a few specific areas of psycholgy such as why we have certain fears and where they come from, along with other intracies of how the mind works, i also have a personal intrest in how society also affects psycholgy aswell however that is more of a personal intrest and less related to my studies since i dont study sociolgy
+I’m Charles Rumm, a University student currently studying psychology at the University of Essex; I’m 18 and have been interested in psychology for a while now ever since I read a booklet on psychology and wanted to know more, I have more of a particular interest in reasons in a few specific areas of psychology such as why we have certain fears and where they come from, along with other intricacies of how the mind works, I also have a personal interest in how society also affects psychology as well however that is more of a personal interest and less related to my studies since I don’t study sociology currently.
 
 
 **Studying psychology at university**  
@@ -22,9 +22,8 @@ cr21495[at]essex[dot]ac[dot]uk
 
 ## Academic pages/associations/clubs
 
-in secondary school i was active in the faith part of my school which involved a good amount of responsibilities, some of those included helping in mass with alter serving and representin the school in terms of faith, this meant that i had to be commited and stick to a schedule and was relied upon to turn up during lunch times to help showing dedication 
-
-i was also active in the chess club, which whilst less demanding it still was a comittment and shows 
+in secondary school i was active in the faith part of my school which involved a good amount of responsibilities, some of those included helping in mass with alter serving and representing the school in terms of faith, this meant that i had to be committed and stick to a schedule and was relied upon to turn up during lunch times to help showing dedication <br>
+i was also active in the chess club, which whilst less demanding it still was a commitment and shows problem solving skills
 
 <br>
 
@@ -35,15 +34,7 @@ I took part in NCS meaning that I learnt that I had to display and learn skills 
 <br>
 In school I was also a prefect, which involved having specific duties carried out at a certain time each day which meant I had to be on time and do my job, which meant I had to practice time management and committing to a specific task at hand which most of the time would be standing at points at the school calling out improper behaviour,  not only that but I was also tasked with faith related tasks such as helping out with the mass at our school since it was a religious school, this has made me used to having to be depended on and part of a team.
 <br>
-
-
+## Future
+I my future I plan to start blogging for both personal and professional reasons, when this happens I’ll add links to this on this page
 <br>
-
-
-<br>
-
-
-
-
-<br><br> 
 
