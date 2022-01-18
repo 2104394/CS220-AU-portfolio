@@ -22,7 +22,7 @@ More specific to me <br>
 My past in digital identity	<br>
 <br>
 In the past my digital identity was very limited, whilst I did interact from a very early age, since I was on the internet from the age of 3, I didn’t have any residency till secondary school with the VLE which would be a very mild form of professional / resident  at the same time I it wasn’t until 14 that I would gain twitter as a form residence and on the personal side of the VR map especially since its more public then finally gaining a lot more residency with more social media and other accounts such as Instagram Reddit and tiktok <br>
-![before VR map](assets/img/before VR map.PNG)
+![](assets/img/before-VR-map.PNG)
 <br>
 My current digital identity <br>
 <br> 
