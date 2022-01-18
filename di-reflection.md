@@ -9,14 +9,14 @@ Using the V&R map, I identified the following ways I engage with the Web in my v
 
 
 <br>
-##What is a digital identity? <br>
+## What is a digital identity? <br>
 <br>
 A digital identity is how you engage with the internet and how you are perceived based upon that identity, an example of this is if a person uses the internet a lot for a professional life that would be their digital identity at least using the VR map method <br>
 <br>
-##Previous ideas on digital identity <br>
+## Previous ideas on digital identity <br>
 <br>
 One previous idea on digital identity was the idea of native and immigrants this meant that some people were raised on the internet and are well versed in how to operate on it and do so frequently for many tasks both professional and personal; however this is not detailed on this first model. Whilst others may try and engage with 
-##Current ideas on digital identity <br>
+## Current ideas on digital identity <br>
 More specific to me <br>
 <br>
 ##My past digital identity	<br>
