@@ -6,6 +6,7 @@ I’m Charles Rumm, a University student currently studying psychology at the Un
 **Studying psychology at university**  
 I’m currently studying psychology at the university of Essex, this will be for three years and im currently in my first year, i hope to leave univerisity with alot of understanding in psycholgy along with other life skills and expiranceses that will aid in my professional life 
 
+![](assets/img/university-of-essex-image.jpg)
 <br>
 
 ## Previous academic work
