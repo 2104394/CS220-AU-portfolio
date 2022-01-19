@@ -4,7 +4,7 @@ I’m Charles Rumm, a University student currently studying psychology at the Un
 
 
 **Studying psychology at university**  
-I’m currently studying psychology at the university of Essex, this will be for three years and im currently in my first year, i hope to leave univerisity with alot of understanding in psycholgy along with other life skills and expiranceses that will aid in my professional life 
+I’m currently studying psychology at the university of Essex, this will be for three years and im currently in my first year, i hope to leave univerisity with alot of understanding in psycholgy along with other life skills and expiranceses that will aid in my professional life
 
 ![](assets/img/university-of-essex-image.jpg)
 <br>
@@ -36,6 +36,7 @@ I took part in NCS meaning that I learnt that I had to display and learn skills 
 In school I was also a prefect, which involved having specific duties carried out at a certain time each day which meant I had to be on time and do my job, which meant I had to practice time management and committing to a specific task at hand which most of the time would be standing at points at the school calling out improper behaviour,  not only that but I was also tasked with faith related tasks such as helping out with the mass at our school since it was a religious school, this has made me used to having to be depended on and part of a team.
 <br>
 ## Future
-I my future I plan to start blogging for both personal and professional reasons, when this happens I’ll add links to this on this page
+I my future I plan to start blogging for both personal and professional reasons, when this happens I’ll add links to this on this page, at this point i do however have an essay detailing my digital identity 
+https://github.com/2104394/CS220-AU-portfolio/blob/main/di-reflection.md
 <br>
 
