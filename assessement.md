@@ -24,7 +24,7 @@ The general marking criteria can be found in the asset folder of the module's [r
 |1. DI REFLECTION 40%|         |              |                                                                                                                        |   |   |
 |1.1 Knowledge and understanding: level of relevant reference(s) to literature/methodology e.g. the Visitor and Resident modes by White et al. and further methods for personal growth and their relevance for the task.|         |              |                                                                                                                        | x  |   |
 |      |         |              |                                                                                                                        |   |   |
-|1.2 Practical: level of logic (intelligence) and aesthetics (imagination) applied to communicate meaning e.g. with layout and figures aiding a clear narrative.|         |              |                                                                                                                        |  x |   |
+|1.2 Practical: level of logic (intelligence) and aesthetics (imagination) applied to communicate meaning e.g. with layout and figures aiding a clear narrative.|         |              |                                                 x                                                                       |   |   |
 |      |         |              |                                                                                                                        |   |   |
 |1.3 Practical: depth of critical self-evaluation i.e. the level of understanding of the current use of your digital identities and areas for improvement e.g. by the efficient use of references/methodologies.|         |              |                                                                                                                        |   |   |
 |  x    |         |              |                                                                                                                        |   |   |
@@ -53,14 +53,14 @@ To measure my own progress, I filled in the table below using the above marking 
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1.1 |     |     |  o  |     |     |
-| 1.2 |     |     |     |  o  |     |
-| 1.3 |     |  o  |     |     |     |
-| 2.1 |     |     |  o  |     |     |
-| 2.2 |     |     |     |  o  |     |
-| 3.1 |     |  o  |     |     |     |
-| 3.2 |     |     |  o  |     |     |
-| 4.1 |     |     |     |  o  |     |
+| 1.1 |     |     |     |   x |     |
+| 1.2 |     |     |     |  x  |     |
+| 1.3 |     |     |     |     |   x |
+| 2.1 |     |     |  x  |     |     |
+| 2.2 |     |     |     |  x  |     |
+| 3.1 |     |     |  x  |     |     |
+| 3.2 |     |     |     |     |  x  |
+| 4.1 |     |     |     |  x  |     |
 
 
 <br>
@@ -74,16 +74,16 @@ To help measure my progress, I asked another student in my group for feedback on
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1.1 |     |     |  o  |     |     |
-| 1.2 |     |     |     |  o  |     |
-| 1.3 |     |  o  |     |     |     |
-| 2.1 |     |     |  o  |     |     |
+| 1.1 |     |     |     |  o  |     |
+| 1.2 |     |     |  o  |     |     |
+| 1.3 |     |     |     |  o  |     |
+| 2.1 |     |     |     |  o  |     |
 | 2.2 |     |     |     |  o  |     |
-| 3.1 |     |  o  |     |     |     |
+| 3.1 |     |     |  o  |     |     |
 | 3.2 |     |     |  o  |     |     |
 | 4.1 |     |     |     |  o  |     |
 
-Feedback given by: <!-- add student nb -->
+
 
 
 <br>
