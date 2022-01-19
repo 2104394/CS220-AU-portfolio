@@ -18,18 +18,12 @@ Then in my di reflection essay I used white et  al’s vr map to outline how I p
 * ?/11/21 thought about how i could advance with digital idenity
 * 9/12/21 listed preivous expirnaces and education on the website
 * 14/12/21 copied over work into github page from word docs they were wrote / planned in
+* 16/17/22 finshed digital identity essay and website
 <br>
 
 ## TODO
 
-* continue to work on di reflection
-  * improvement log on the vr map how they have changed
-  * add in the images of the vr map
-  * finish the non personal part
-* do further work on the website
-  * improve an intro at the beginning of website detialing who i am briefly
-<br>
-
 
 ## References
 
+White, David. 2021. "Visitors & Residents". David White. http://daveowhite.com/vandr/.
